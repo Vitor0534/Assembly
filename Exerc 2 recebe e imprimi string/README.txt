@@ -1,0 +1,1 @@
+Recebe uma string do teclado e imprime a mesma na tela
